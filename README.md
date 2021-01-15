@@ -9,7 +9,7 @@ I find Howard Marks return vs risk graph a nice way to visualize risk.
 
 According to him, the higher the risk, the more variability your return becomes.
 
-![Return vs risk visualized](/img/risk-return.png)
+![Return vs risk visualized](/risk-return.png)
 
 Different asset classes have their inherent risk.
 
@@ -155,14 +155,14 @@ Some might point out that volatility isn't a bad thing, but I think we can agree
 
 No all of us can sleep well when our portfolio is down 20%, with a nice spiced combo, we can sleep well while not sacrificing a big chunk of your return.
 
-![Performance of portfolio](/img/portfolio.png)
+![Performance of portfolio](/portfolio.png)
 
 ## What if you added more every year?
 
 What if we added RM1000 every year (A rather small amount)?
 As expected, the portfolio will grow a lot faster.
 
-![Performance of portfolio](/img/portfolio_1000.png)
+![Performance of portfolio](/portfolio_1000.png)
 
 ## Key Takeaways
 * **Nice risk/reward ratio**. Reduced volatility while preserving returns.
@@ -183,7 +183,7 @@ The data I used above is from a local unit trust giant company P. If you want to
 
 根据Howard Marks的说法, 当你承受高风险时, 你的回酬会承受更高的波动. 一图胜千言.
 
-![视觉化风险 vs 回酬](/img/risk-return.png)
+![视觉化风险 vs 回酬](/risk-return.png)
 
 不同的资产等级有它们的风险等级.
 
@@ -316,13 +316,13 @@ plt.show()
 | 2020年资产价值 |    27142    |   18664   |     24482     |
 | 最低点         |    9971     |   10532   |     11191     |
 
-![Performance of portfolio](/img/portfolio.png)
+![Performance of portfolio](/portfolio.png)
 
 ## 如果你每年加码呢?
 
 我也计算了如果每年加码RM1000的结果, 就如预算的, 资产增值的速度会增快.
 
-![Performance of portfolio](/img/portfolio_1000.png)
+![Performance of portfolio](/portfolio_1000.png)
 
 ## 总结
 * **不错的 风险/回酬 比例**. 50/50组合可以在降低风险的情况下保持回酬.
