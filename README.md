@@ -169,8 +169,6 @@ As expected, the portfolio will grow a lot faster.
 * **Diversification don't necessary take away a lot of your return**. The 50/50 combo is only a 10% (RM2600 difference) worse than full equity combo, with lesser volatility.
 * We cannot rebalance our portfolio too often because it might incur charges.
 
-The data I used above is from a local unit trust giant company P. If you want to learn more please [PM on Facebook Messenger](https://m.me/klsequant) or **Email to klsequant@gmail.com for more info**
-
 
 # 中文
 
@@ -329,5 +327,4 @@ plt.show()
 * **分散风险不一定会牺牲高回酬**. 50/50组合在**更小的波动下**只比股票型资产少赚了10% （大概RM2600)
 * Rebalance不能太常进行, 必须考虑到手续费.
 
-以上用的数据都是本地著名基金公司"P 公司"的数据. 如果你想**了解更多的话可以[PM on Facebook Messenger](https://m.me/klsequant)或电邮至klsequant@gmail.com**
-
+以上用的数据都是本地著名基金公司"P 公司"的数据. 
